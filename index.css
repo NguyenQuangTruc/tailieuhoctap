@@ -1,0 +1,11 @@
+.hover_color-red:hover{
+    color: red;
+}
+
+.hover_scale:hover{
+    scale: 1.2;
+}
+
+.phan{
+    transition: scale 0.3s ease;
+}
